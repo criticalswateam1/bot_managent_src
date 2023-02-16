@@ -68,8 +68,8 @@ module.exports = {
   },
 
   OwnerInformation: {
-    OwnerID: ["313247783748501505"],
-    OwnerTicketCat: "1075477269763596330"
+    OwnerID: ["313247783748501505"], //owner
+    OwnerTicketCat: "1075477269763596330" //id cat of owner
   },
 
   OrdersChannelID: {
@@ -77,7 +77,7 @@ module.exports = {
     TicketChannelID: "1075477021456617483",
     FeaturesChannelID: "1075477148061683732",
     OrderChannelID: "1075477021456617483",
-    TicketMessageID: "966759789738754130" //
+    TicketMessageID: "966759789738754130" //id message
   },
 
   ApplyTickets: {
