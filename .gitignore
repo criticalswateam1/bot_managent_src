@@ -1,5 +1,7 @@
 node_modules
-servicebots/
+
+servicebots/ClanBot/template/
+servicebots/LavaMusic/template/
 
 *.sqlite
 *.sqlite-shm
