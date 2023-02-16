@@ -1,0 +1,87 @@
+{
+    "Roles": {
+        "FounderId": "1074768522078588928",
+        "OwnerRoleId": "1075477423962992782",
+        "CoOwnerRoleId": "1075477466442907698",
+        "ChiefHumanResources": "1075477542867316786",
+        "HumanResources": "1075477581803049172",
+        "AdminRoleId": "1075477618113130626",
+        "ModRoleId": "1075477658021937243",
+        "ChiefSupporterRoleId": "1075477708609425438",
+        "ChiefBotCreatorRoleId": "1075477755740831845",
+        "BotCreatorRoleId": "1075477824997183609",
+        "SupporterRoleId": "1075477876335460513",
+        "NewSupporterRoleId": "1075477935370289213"
+    },
+    "ticketsystem": [
+        {
+            "value": "General Help",
+            "description": "Get help for anything you need",
+            "emoji": "❓",
+            "type": "GENERAL"
+        },
+        {
+            "value": "Bot Help",
+            "description": "Get help for your SHOP-BOT",
+            "emoji": "🤖",
+            "type": "HELP"
+        },
+
+
+        {
+            "value": "Staff Application",
+            "description": "Apply as a Staff for Team Arcades",
+            "emoji": "👮‍♂️",
+            "type": "TEAMAPPLY"
+        },
+        {
+            "value": "Partner Application",
+            "description": "Apply for a partnership with Team Arcades",
+            "emoji": "🤝",
+            "type": "PARTNERAPPLY"
+        }
+    ],
+    "ordersystem": [    
+        {
+            "value": "System Bot",
+            "description": "6 Invites ・ 1€/30 Days ・ 4€/Year",
+            "emoji": "🤖",
+            "type": "ClanBot"
+        },
+        {
+            "value": "Music Bot",
+            "description": "7 Invites ・ 1€/60 Days ・ 3€/Year",
+            "emoji": "🎵",
+            "type": "LavaMusic"
+        },
+
+        {
+            "value": "Waitingroom Bot",
+            "description": "3 Invites ・ 1€/100 Days ・ 2€/Year",
+            "emoji": "🕓",
+            "type": "WAITINGROOMBOT"
+        },
+
+        {
+            "value": "Mod Mail Bot",
+            "description": "3 Invites ・ 1€/100 Days ・ 2€/Year",
+            "emoji": "📨",
+            "type": "MODMAILBOT"
+        }
+    ],
+    "createbot": [
+        {
+            "value": "System Bot",
+            "description": "6 Invites ・ 1€/30 Days ・ 4€/Year",
+            "emoji": "🤖",
+            "bottype": "ClanBot"
+        },
+
+        {
+            "value": "Music Bot",
+            "description": "7 Invites ・ 1€/60 Days ・ 3€/Year",
+            "emoji": "🎵",
+            "bottype": "LavaMusic"
+        }    
+    ]
+}

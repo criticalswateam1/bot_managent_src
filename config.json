@@ -1,0 +1,22 @@
+{
+  "token": "MTA2NDIwNzA5NDUzMTc1NjE4Mg.GTV0jg.laTTQKhPLMNeytoiW1AvYrv8VPiC6YxO0W2-ik",
+  "prefix": ",",
+  "color": "#6861fe",
+  "pastebinapi": "sdsd",
+  "secret": "ubmCxYa1pbRrcN-Iy7Qxj6PdHi7yaXZe",
+  "callback": "http://localhost:8080/callback",
+
+  "paypal": {
+    "clientId": "AUv5QHdR6T69UrZdHrvWfcCIian0IQebwfN188wPkd4u1XLN5Napq7kMZFf1skIKnaLHBz2AgwEZePNy",
+    "clientSecret": "EAyDFfh7_nIsP6ncDVT55YfeITo0E5izmwGTbnyLXiCDNRbJ1CjHnynL_4bUsVzI98fVJcJUqeyvRQb1"
+  },
+  "servers": {
+      "6": "176.65.143.45"
+  },
+  "passwords": {  
+      "6": "TeamArcadesTheBest"
+  },
+  "usernames": {
+      "6": "truchorko"
+  }
+}
